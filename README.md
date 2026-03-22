@@ -28,6 +28,6 @@ My journey in computer science has led me to develop a passion for the cybersecu
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/3c7cc8a2-270d-421f-8bfd-68216bc607f3/public_url)
 
 ## Projects
-[- SIEM Detection LAB (Wazuh)](https://github.com/IcaroLW/siem-brute-force-ssh)
-[- Phishing Campaign Test (GoPhish)](https://github.com/IcaroLW/phishing-campaign-test)
+- [SIEM Detection LAB (Wazuh)](https://github.com/IcaroLW/siem-brute-force-ssh)
+- [Phishing Campaign Test (GoPhish)](https://github.com/IcaroLW/phishing-campaign-test)
 - 
