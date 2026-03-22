@@ -29,5 +29,5 @@ My journey in computer science has led me to develop a passion for the cybersecu
 
 ## Projects
 [- SIEM Detection LAB (Wazuh)](https://github.com/IcaroLW/siem-brute-force-ssh)
-- Honeypot
+[- Phishing Campaign Test (GoPhish)](https://github.com/IcaroLW/phishing-campaign-test)
 - 
