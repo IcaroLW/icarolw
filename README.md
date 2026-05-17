@@ -1,5 +1,4 @@
 ## Hello, I'm Icaro
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-icarolw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarolw/)
 
 I am recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
