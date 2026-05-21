@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for the cybersecu
 ![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-darkgreen?style=for-the-badge).
 
 ## Certifications
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)]
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 ## Projects
 - [SIEM Detection LAB (Wazuh)](https://github.com/IcaroLW/siem-brute-force-ssh)
